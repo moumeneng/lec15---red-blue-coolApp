@@ -25,7 +25,6 @@ class ViewController: UIViewController {
         
     }
     // this is comment
-    var y:Int = 2
     @IBAction func hidebluebtn(sender: AnyObject) {
         blueimg.hidden = true
         hidebluebutt.hidden = true
