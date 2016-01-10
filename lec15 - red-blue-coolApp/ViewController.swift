@@ -24,7 +24,6 @@ class ViewController: UIViewController {
         shwred.hidden = false
         
     }
-    // what is this
     @IBAction func hidebluebtn(sender: AnyObject) {
         blueimg.hidden = true
         hidebluebutt.hidden = true
